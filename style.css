@@ -1,17 +1,17 @@
-#hero {
+/*#hero {
     height: 100vh;
-}
+}*/
 
 .offwhitebg {
     background-color: rgb(255, 237, 227);
 }
 
-.herocontainer {
+/*.herocontainer {
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-  }
+  }*/
 
 /*.rectangle1 {
     width: 20%;
@@ -34,3 +34,8 @@
 .bghero {
     background-color: #77BDD9;
 };
+
+.project1 {
+    display: flex;
+
+}
